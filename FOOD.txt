@@ -4419,7 +4419,6 @@ cipolla di giarratana
 circassia
 circassian cheese
 circassian chicken
-circassian diaspora
 circassian smoked cheese
 circle
 circus
@@ -8213,7 +8212,6 @@ grechetto
 greco di tufo
 greece
 greek citron
-greek diaspora
 greek language
 greek salad
 greek wine
@@ -11582,7 +11580,6 @@ maccheroni con la trippa
 maccu
 mace 
 macedonia 
-macedonian diaspora
 macedonian language
 macedonian wine
 macerado de damasco

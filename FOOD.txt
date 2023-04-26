@@ -55,7 +55,6 @@ acacia tetragonophylla
 acacia tumida
 acacia victoriae
 acadia
-acadian
 acaena
 acalypha
 acambaro
@@ -379,7 +378,6 @@ allium fistulosum
 allium moly
 allium monanthum
 allium neapolitanum
-allium nigrum
 allium platycaule
 allium praecox
 allium punctum
@@ -787,11 +785,9 @@ apulia
 aquafaba
 aquilegia
 aquitaine
-arab salad
 arabesque greenling
 arabic coffee
 arabic salad
-arabis
 araceae
 arachis
 arachniodes
@@ -903,7 +899,6 @@ arroz con huevo frito
 arroz con pato a la chiclayana
 arroz con pollo
 arroz de lisa
-arroz negro
 arroz poblano
 arroz tapado
 arroz zambito
@@ -961,9 +956,6 @@ ash-e-sholeh ghalam kar
 asham 
 ashdown foresters
 ashe doogh
-ashkenazi
-ashkenazi jews
-ashkenazic
 ashmead's kernel
 ashmelia
 ashprington
@@ -984,7 +976,6 @@ aspergillus sojae
 asperula
 asphodeline
 asphodelus
-aspic
 aspidistra
 asplenium
 assam pedas
@@ -1935,7 +1926,6 @@ black peppercorn
 black pudding
 black raspberry
 black rice
-black russian
 black salsify
 black sapote
 black scabbardfish
@@ -2310,7 +2300,6 @@ brassica carinata
 brassica hirta
 brassica juncea
 brassica napus
-brassica nigra
 brassica oleracea
 brassicaceae
 brassidium
@@ -2556,7 +2545,6 @@ builder's tea
 buitoni
 bujta repa
 bukayo
-bukharan jews
 bukidnon
 bukittinggi
 buknu
@@ -2620,7 +2608,6 @@ burgos
 burgundy
 burgundy 
 burgundy wine
-buri tribe
 buridda
 burma
 burma 
@@ -3398,7 +3385,6 @@ castelo branco cheese
 castelo branco, portugal
 castelrosso cheese
 castelvetrano
-castiglione di garfagnana
 castiglione messer marino
 castile 
 castile-la mancha
@@ -4071,7 +4057,6 @@ chinese chicken salad
 chinese chives
 chinese cooking
 chinese cooking techniques
-chinese cubans
 chinese culture
 chinese desserts
 chinese food
@@ -4103,7 +4088,6 @@ chinese yam
 chingri malai curry
 chingudi jhola
 chinguirito
-chinkiang pot cover noodles
 chinmi
 chinsuko
 chinuri
@@ -4437,7 +4421,6 @@ circassian cheese
 circassian chicken
 circassian diaspora
 circassian smoked cheese
-circassians
 circle
 circus
 cirebon
@@ -4816,7 +4799,6 @@ colombian nationality law
 colombian navy
 colombian peso
 colombian spanish
-colombians
 colonche
 colonial brazil
 colonial goose
@@ -5000,7 +4982,6 @@ cordate
 cordero al palo
 cordia
 cordial 
-cordillera oriental 
 cordon bleu 
 cordyline
 cordyline fruticosa
@@ -5778,7 +5759,6 @@ daucus carota
 daucus pusillus
 daum communications
 daun ubi tumbuk
-daunians
 davallia
 davallia canariensis
 davangere
@@ -6381,6 +6361,7 @@ eddoe
 edelweiss
 eden foods inc.
 edgeworthia
+edible
 edible bird's nest
 edible dormouse
 edible flowers
@@ -6718,7 +6699,6 @@ es shanghai
 es teler
 escabeche
 escabeche de pollo
-escabeche oriental
 escalivada
 escallion
 escallonia
@@ -6753,9 +6733,6 @@ essential oil
 estado novo 
 ethanol
 ethmalosa fimbriata
-ethnic groups of africa
-ethnic groups of ethiopia
-ethnicity
 etiquette of indian dining
 etiquette of pakistani dining
 etlingera
@@ -6836,10 +6813,6 @@ faboideae
 facing heaven pepper
 factory
 facturas
-fagaceae
-fagarasan sausages
-fagottini
-fagus grandifolia
 fahrenheit
 fahsa
 fair trade coffee
@@ -7377,7 +7350,6 @@ francesinha
 francesinha poveira
 francheezie
 franciacorta 
-franco-american 
 francoa
 franconia
 franconia 
@@ -7490,7 +7462,6 @@ frietmuseum
 frietsaus
 friggitello
 frijoles charros
-frijoles negros
 frijoles pintos
 frijoles puercos
 frikadelle
@@ -7752,9 +7723,6 @@ gardenburger
 gardenia
 gardening
 gardetto's
-garfagnana
-garfagnina bianca
-garganega
 garganelli
 garganelli prosciutto e piselli
 gari 
@@ -8306,7 +8274,6 @@ grilled chicken
 grilling
 grimes golden
 grindelia
-gringas
 grippo's
 griselina
 grisons
@@ -8439,9 +8406,6 @@ guotie
 gur cake
 guri-guri
 guspini
-gustavus adolphus day
-gustavus adolphus of sweden
-gustavus adolphus pastry
 guthuk
 gutti vankaya
 guttiferae
@@ -8611,8 +8575,6 @@ hanky-panky cocktail
 hannah glasse
 hannah woolley
 hanoi
-hanukkah
-hanukkah gelt
 hany milk chocolate
 hapanvelli
 haplopappus
@@ -9324,14 +9286,12 @@ indian fast food
 indian filter coffee
 indian gooseberry
 indian ice cream 
-indian indonesians
 indian jujube
 indian omelette
 indian pickle
 indian pickles
 indian prawn
 indian prune
-indian punjab
 indian rubber vine
 indian strawberry
 indian subcontinent
@@ -9340,7 +9300,6 @@ indian wine
 indiana
 indianapolis
 indica rice
-indigenous australians
 indigofera
 indirect grilling
 individual meal pack
@@ -9459,21 +9418,12 @@ isoflavone
 isoplexis
 isopyrum
 isorhamnetin
-israel
-israel 
-israeli breakfast
-israeli eggplant salad
-israeli jews
-israeli salad
-israeli wine
-istanbul
 istarski cukarini
 isterband
 istria
 istrian stew
 itak gurgur
 ital
-italian american
 italian beef
 italian bread
 italian dressing
@@ -9488,7 +9438,6 @@ italian sweet pepper
 italian tomato pie
 italian unification
 italian wine
-italian-american
 italiano 
 italico
 italy
@@ -9582,7 +9531,6 @@ janggukjuk
 janssons frestelse
 japadog
 japanese amberjack
-japanese american
 japanese butterfish
 japanese cedar
 japanese citrus
@@ -9679,8 +9627,6 @@ jersey wonders
 jerusalem artichoke
 jerusalem mixed grill
 jeungpyeon
-jew plum
-jewish apple cake
 jhajariya
 jhalmuri
 jian dui
@@ -9779,7 +9725,6 @@ judd mat gaardebounen
 jugging
 juglandaceae
 juglans cinerea
-juglans nigra
 juglans regia
 juice
 juice fasting
@@ -9902,7 +9847,6 @@ kaeng pa
 kaeng phrik kraduk mu
 kaeng som
 kaeng tai pla
-kaffir lime
 kafta b'thine
 kafta harra
 kagoshima
@@ -10053,7 +9997,6 @@ karukan
 karumetou
 karydopita
 kasai occidental
-kasai oriental
 kasha
 kasha varnishkas
 kashgar
@@ -10979,7 +10922,6 @@ latte art
 latte macchiato
 latteria
 latteria delebio
-latteria di fagagna
 lattice 
 lattughe
 latundan banana
@@ -11552,7 +11494,6 @@ lupis
 lurpak
 lusikkahaarukka
 lusitania
-lusitanians
 lussekatter
 lutefisk
 lutein
@@ -11763,6 +11704,7 @@ makkaraperunat
 makki di roti
 makowiec 
 makroudh
+makrut lime
 maksalaatikko
 mala mogodu
 mala sauce
@@ -11791,7 +11733,6 @@ malbec
 malcolmia
 maldive fish
 maldives
-maldivians
 malephora
 malfatti di carpenedolo con burro e salvia
 malfatto di carpenedolo
@@ -11825,7 +11766,6 @@ malt-o-meal
 malta
 malta 
 maltagliati
-maltagliati ai fagioli
 malted milk
 malted milk 
 maltese bread
@@ -12368,7 +12308,6 @@ mentaiko spaghetti
 mentha
 mentha arvensis
 mentha longifolia
-mentha spicata
 menthol
 mentzelia
 menudo 
@@ -12391,7 +12330,6 @@ merveilleux
 mesclun
 mesfouf
 mesoamerica
-mesoamerican
 mesona chinensis
 mesophilic
 mesopotamia
@@ -13292,10 +13230,6 @@ neenish tart
 neer dosa
 negative selection 
 negimaki
-negro 
-negro pepper
-negroamaro
-negru sausages
 nehi
 neillia
 neilson dairy
@@ -13428,16 +13362,12 @@ nigel slater
 nigella
 nigella lawson
 nigella sativa
-niger
 nigeria
 nightshade
-nigirizushi
-nigori
 nihari
 nihon shoki
 niijima
 nik naks 
-nikka whisky distilling
 niknaks 
 nikolaschka
 nikujaga
@@ -13485,7 +13415,6 @@ nomocharis
 non-alcoholic beverage
 non-brewed condiment
 non-dairy creamer
-non-resident indian and person of indian origin
 noni
 nonlaminated
 nonnevot
@@ -13529,7 +13458,6 @@ nostrano prealpino
 nostrano semigrasso
 nostrano valchiese
 notes and queries
-nothofagus
 notholirion
 notholithocarpus densiflorus
 nothoscordum
@@ -14139,8 +14067,6 @@ pale lager
 pale of settlement
 palembang
 palermo
-palestine 
-palestinian arabs
 palestinian sweet lime
 palestinian wine
 paleta
@@ -14476,8 +14402,6 @@ pasta ca nunnata
 pasta con broccoli arriminati
 pasta con ceci e nduja
 pasta con le sarde
-pasta e fagioli
-pasta fagioli
 pasta filata
 pasta mollicata
 pasta primavera
@@ -14655,12 +14579,10 @@ pecorino dei berici
 pecorino del casentino
 pecorino del parco di migliarino-san rossore
 pecorino della costa apuana
-pecorino della garfagnana
 pecorino della lunigiana
 pecorino della versilia
 pecorino delle balze volterrane
 pecorino di filiano
-pecorino di garfagnina
 pecorino di montagna
 pecorino di osilo
 pecorino leccese
@@ -14823,7 +14745,6 @@ perpetual stew
 perrine lemon
 persea
 persia
-persian 
 persian gulf
 persian language
 persian lime
@@ -15059,7 +14980,6 @@ pie floater
 pie tee
 piedmont
 piedmont 
-piedras negras, coahuila
 pieds paquets
 piemonte 
 pierino
@@ -15454,7 +15374,6 @@ polygonum punctatum
 polygonum viviparum
 polynesia
 polynesian arrowroot
-polynesians
 polyphenol antioxidant
 polyphenols
 polypodium
@@ -15844,7 +15763,6 @@ prunus dulcis
 prunus mahaleb
 prunus maritima
 prunus mume
-prunus nigra
 prunus persica
 prunus serotina
 prunus spinosa
@@ -16281,7 +16199,6 @@ ranzania
 raoulia
 rap snacks
 rapadura
-rapeseed
 raphanus
 raphanus raphanistrum
 raphanus sativus
@@ -16542,7 +16459,6 @@ riberry
 ribes
 ribes cereum
 ribes divaricatum
-ribes nigrum
 ribes odoratum
 ribes rubrum
 ribolla gialla
@@ -16751,7 +16667,6 @@ romandy
 romanesco broccoli
 romania
 romanian wine
-romanians
 romano-british culture
 romanov tercentenary 
 romanzoffia
@@ -16951,7 +16866,6 @@ russian candy
 russian dressing
 russian tea cake
 russian wine
-russians
 rustico 
 ruta
 ruta graveolens
@@ -17484,7 +17398,6 @@ scampi
 scampi a zuppetta
 scampi gratinati
 scandinavia
-scandinavian 
 scansano
 scarlet runner bean
 scarpinocc
@@ -17665,7 +17578,6 @@ second italo-abyssinian war
 second maroon war
 secret santa
 secularity
-securinega
 seder
 sedico
 seed
@@ -17732,11 +17644,6 @@ seoul
 seoulistic
 separating eggs
 separation of panama from colombia
-sephardi
-sephardi jews
-sephardic
-sephardic jews
-sephardim
 sepiadarium kochi
 sepiella inermis
 seppie col nero alla veneziana
@@ -18372,7 +18279,6 @@ solanine
 solanum
 solanum centrale
 solanum lycopersicum
-solanum nigrum
 solanum quitoense
 solanum torvum
 solanum tuberosum
@@ -19602,6 +19508,7 @@ telekia
 teleme cheese
 telemea
 telephium
+telephone
 telera
 telfairia occidentalis
 tell abu hureyra
@@ -20102,7 +20009,6 @@ tortilla de rescoldo
 tortilla soup
 tortilla warmer
 tortillitas de camarones
-tortita negra
 toscanello
 tosela
 toshikoshi soba
@@ -21101,7 +21007,6 @@ white pudding
 white rabbit creamy candy
 white rice
 white rum
-white russian 
 white sapote
 white sauce
 white sugar
@@ -21357,7 +21262,6 @@ yemas de san leandro
 yemas de santa teresa
 yemen
 yemenite citron
-yemenite jews
 yeo hiap seng
 yeo valley organic
 yeolmu kimchi

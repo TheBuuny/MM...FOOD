@@ -4057,7 +4057,6 @@ chinese chicken salad
 chinese chives
 chinese cooking
 chinese cooking techniques
-chinese culture
 chinese desserts
 chinese food
 chinese fried rice
@@ -4419,11 +4418,11 @@ cipolla di giarratana
 circassia
 circassian cheese
 circassian chicken
+circassian diaspora
 circassian smoked cheese
 circle
 circus
 cirebon
-cirebonese
 cireng
 ciriola 
 cirsium
@@ -4488,7 +4487,6 @@ ciuppin
 civni apple
 cjarsons
 cjarsons al burro
-cjinese
 clabber 
 clackers cereal
 cladanthus
@@ -4790,14 +4788,12 @@ colombian air force
 colombian art
 colombian conflict
 colombian constitution of 1991
-colombian culture
 colombian folklore
 colombian handicrafts
 colombian literature
 colombian nationality law
 colombian navy
 colombian peso
-colombian spanish
 colonche
 colonial brazil
 colonial goose
@@ -8212,6 +8208,7 @@ grechetto
 greco di tufo
 greece
 greek citron
+greek diaspora
 greek language
 greek salad
 greek wine
@@ -9242,9 +9239,6 @@ imbul kiribath
 imbuljuta
 imelletty perunalaatikko
 imeretian wine
-immigration
-immigration to colombia
-immigration to portugal
 imokilly regato
 imoni
 impact confections
@@ -9277,7 +9271,6 @@ india pale ale
 indian almond
 indian bean
 indian bread
-indian culture
 indian dairy products
 indian express
 indian fast food
@@ -10974,7 +10967,6 @@ leaf vein
 leah bar
 leavening
 leavening agent
-lebanese immigration to mexico
 lebanese wine
 lebanon bologna
 leben 
@@ -11580,6 +11572,7 @@ maccheroni con la trippa
 maccu
 mace 
 macedonia 
+macedonian diaspora
 macedonian language
 macedonian wine
 macerado de damasco
@@ -13916,7 +13909,6 @@ ovalipes australiensis
 ovaltine
 oven
 overijssel
-overseas chinese
 oviparity
 ovis
 ovis aries
@@ -16664,7 +16656,6 @@ romandy
 romanesco broccoli
 romania
 romanian wine
-romano-british culture
 romanov tercentenary 
 romanzoffia
 rome
@@ -19609,7 +19600,6 @@ texture
 textured vegetable protein
 thai basil
 thai chili
-thai chinese
 thai curry
 thai fried rice
 thai fruit carving

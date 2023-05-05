@@ -185,8 +185,6 @@ african mango
 african oil palm
 african rice
 african yam
-afrikaan
-afrikaans
 afritada
 afternoon tea
 afuega'l pitu
@@ -5158,7 +5156,6 @@ coula edulis
 coulibiac
 coulis
 coulommiers cheese
-council of ministers of colombia
 count chocula
 couque de dinant
 couque suisse
@@ -6470,7 +6467,6 @@ eintopf
 eisbein
 eish merahrah
 el nayar
-el presidente 
 el toro loco
 elachi
 elaeagnaceae
@@ -7405,7 +7401,6 @@ french toast
 french toast crunch
 french wine
 french's
-french-speaking quebecer
 fresa
 fresh water
 freshwater prawn farming
@@ -8688,7 +8683,6 @@ heavy cream
 hebe 
 hebei
 hebesu
-hebrew language
 hebrides
 hechtia
 hedera
@@ -8836,9 +8830,6 @@ himbasha
 himbeergeist
 himmel und erde
 hinava
-hindi 
-hindi language
-hindu
 hinoemata, fukushima
 hippeastrum
 hippocastanoideae
@@ -13002,7 +12993,6 @@ mushy peas
 musk cucumber
 muskazine
 muskmelon
-muslim
 mussaenda
 mussel
 mussels
@@ -14030,7 +14020,6 @@ paisa region
 pajeon
 pakenham, ontario
 pakhala
-pakistan
 pakistani legume dishes
 pakistani meat dishes
 pakistani rice dishes
@@ -15630,9 +15619,6 @@ preservation breeding
 preservative
 preserved lemon
 preserves
-president of colombia
-president of ethiopia
-president of portugal
 presidential m&m's
 presolana-valseriana
 press cake
@@ -15650,8 +15636,6 @@ prickly poppy
 priganice
 prima apple
 primanti
-prime minister of ethiopia
-prime minister of jamaica
 prime rib
 primo sale
 primolino
@@ -15661,7 +15645,6 @@ primula vulgaris
 primusali
 prince candy bar
 prince edward island
-prince of wales 
 prince polo
 princess cake
 princess mafalda of savoy
@@ -20288,7 +20271,6 @@ turkey ham
 turkey meat
 turkic countries
 turkish coffee
-turkish cypriot
 turkish delight
 turkish desserts
 turkish language
